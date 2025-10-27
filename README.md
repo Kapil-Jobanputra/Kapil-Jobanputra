@@ -40,8 +40,8 @@ Computer Engineer | Software Developer | Data Analyst | Python · Java · Cloud 
 ---
 
 ## 📫 Connect With Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- **Email:** [kapiljoban@gmail.com](mailto:your.email@example.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/kapiljobanputra/](https://linkedin.com/in/your-linkedin)  
 - **GitHub:** [github.com/Kapil-Jobanputra](https://github.com/Kapil-Jobanputra)
 
 ---
