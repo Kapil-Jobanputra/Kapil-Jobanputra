@@ -6,6 +6,8 @@
 ---
 
 ## 💡 About Me
+MS in Information Systems @ Santa Clara University | Computer Engineer | Software Developer | Python · Java · Cloud · Data | Lifelong learner in tech.
+
 I’m a software developer and computer engineer passionate about creating secure, data-driven solutions.  
 My interests are software development, cloud technologies, data analytics, and information systems.
 
