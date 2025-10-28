@@ -6,8 +6,8 @@
 ---
 
 ## 💡 About Me
-I’m a software developer and information systems professional with over 5 years of experience in full-stack development, system optimization, and data-driven solutions.  
-I enjoy designing scalable applications, modernizing infrastructure, and building automation that improves business performance and user experience.
+- I’m a software developer and information systems professional with over 5 years of experience in full-stack development, system optimization, and data-driven solutions.  
+- I enjoy designing scalable applications, modernizing infrastructure, and building automation that improves business performance and user experience.
 
 ---
 
@@ -49,11 +49,11 @@ I enjoy designing scalable applications, modernizing infrastructure, and buildin
 ---
 
 ## 💻 Featured Academic & Technical Projects
-- **Carbon Emissions Prediction Platform** — AWS-hosted ML web app (ARIMA/SARIMAX) for emissions forecasting.  
-- **Cloud-Native Microservices Development** — E-commerce system using Docker, Flask, Node.js, and MongoDB.  
-- **FIFA World Cup Forecast Model** — Data-driven prediction system using Python, NumPy, and Pandas.  
-- **Agile Travel Platform Optimization** — Implemented Scrum-based upgrade, cutting process time by 32%.  
-- **Snackpass DBMS Project** — Designed a normalized database schema with MySQL and Draw.io diagrams.
+- **Carbon Emissions Prediction Platform [Armanino LLP]** — AWS-hosted ML web app (ARIMA/SARIMAX) for emissions forecasting.  
+- **Cloud-Native Microservices Development [Cloud Computing]** — E-commerce system using Docker, Flask, Node.js, and MongoDB.  
+- **FIFA World Cup Forecast Model [Python/Machine Learning]** — Data-driven prediction system using Python, NumPy, and Pandas.  
+- **Agile Travel Platform Optimization [Software Project Management]** — Implemented Scrum-based upgrade, cutting process time by 32%.  
+- **Snackpass DBMS Project[Big Data]** — Designed a normalized database schema with MySQL and Draw.io diagrams.
 
 ---
 
