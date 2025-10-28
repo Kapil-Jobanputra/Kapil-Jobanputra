@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kapil Jobanputra
 
-🚀 **Software Developer | Information Systems Graduate | Cloud & Data Enthusiast**  
+🚀 **Software Developer| Computer Engineer | Information Systems Graduate | Data Analyst | Cloud Enthusiast**  
 📍 Based in San Jose, California | ✉️ [kapiljoban@gmail.com](mailto:kapiljoban@gmail.com)
 
 ---
@@ -21,11 +21,6 @@ I enjoy designing scalable applications, modernizing infrastructure, and buildin
 ---
 
 ## 💼 Professional Experience
-### **Freelancer (Remote)** | *Software Developer*  
-*Sept 2018 – Aug 2022*  
-- Enhanced and maintained SaaS-based grocery delivery and fitness platforms for multiple clients.  
-- Built responsive web applications for small businesses and implemented e-commerce solutions.  
-- Created business logos, web pages, and automated data pipelines for local enterprises.
 
 ### **Whiz Solutions – Ahmedabad, India** | *Software Engineer / Technical Sales Lead*  
 *Feb 2020 – Aug 2022*  
@@ -37,6 +32,12 @@ I enjoy designing scalable applications, modernizing infrastructure, and buildin
 *Sept 2017 – Oct 2019*  
 - Built real-time data analytics reports using MySQL, Excel, and Tableau Public.  
 - Designed and implemented workflows that improved sales performance and reporting efficiency.
+
+### **Freelancer (Remote)** | *Software Developer*  
+*Sept 2018 – Aug 2022*  
+- Enhanced and maintained SaaS-based grocery delivery and fitness platforms for multiple clients.  
+- Built responsive web applications for small businesses and implemented e-commerce solutions.  
+- Created business logos, web pages, and automated data pipelines for local enterprises.
 
 ---
 
