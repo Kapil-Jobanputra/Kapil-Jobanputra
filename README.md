@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Kapil Jobanputra
+# 👋 Hi, I'm Kapil Jobanputra (Looking for career opportunities)
 
-🚀 **Software Developer| Computer Engineer | Information Systems Graduate | Data Analyst | Cloud Enthusiast**  
-📍 Based in San Jose, California | ✉️ [kapiljoban@gmail.com](mailto:kapiljoban@gmail.com)
+🚀 **Software Developer | Computer Engineer | Information Systems Graduate | Data Analyst | Cloud Enthusiast**  
+📍 Based in San Jose, California, USA | ✉️ [kapiljoban@gmail.com](mailto:kapiljoban@gmail.com)
 
 ---
 
 ## 💡 About Me
-- I’m a software developer and information systems professional with over 5 years of experience in full-stack development, system optimization, and data-driven solutions.  
+- I’m a software developer and information systems professional with over 5+ years of experience in full-stack development, system optimization, and data-driven solutions.  
 - I enjoy designing scalable applications, modernizing infrastructure, and building automation that improves business performance and user experience.
 
 ---
