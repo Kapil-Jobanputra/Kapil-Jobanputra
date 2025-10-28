@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kapil Jobanputra (Looking for career opportunities)
+# 👋 Hi, I'm Kapil Jobanputra
 
 🚀 **Information Systems Graduate |Software Developer | Computer Engineer |  Data Analyst | Cloud Enthusiast**  
 📍 Based in San Jose, California, USA | ✉️ [kapiljoban@gmail.com](mailto:kapiljoban@gmail.com)
