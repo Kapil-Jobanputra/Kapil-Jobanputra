@@ -94,6 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kapil-Jobanputra&theme=github-dark-blue&hide_border=true" height="165">
+  <img src="https://streak-stats.vercel.app?user=Kapil-Jobanputra&theme=github-dark-blue&hide_border=true" height="165">
+  
 </p>
 
