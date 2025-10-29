@@ -48,12 +48,13 @@
 
 ---
 
-## 💻 Featured Academic & Technical Projects
-- **Carbon Emissions Prediction Platform [Armanino LLP]** — AWS-hosted ML web app (ARIMA/SARIMAX) for emissions forecasting.  
-- **Cloud-Native Microservices Development [Cloud Computing]** — E-commerce system using Docker, Flask, Node.js, and MongoDB.  
-- **FIFA World Cup Forecast Model [Python/Machine Learning]** — Data-driven prediction system using Python, NumPy, and Pandas.  
-- **Agile Travel Platform Optimization [Software Project Management]** — Implemented Scrum-based upgrade, cutting process time by 32%.  
-- **Snackpass DBMS Project[Big Data]** — Designed a normalized database schema with MySQL and Draw.io diagrams.
+## 💻 Projects
+- [🌍 Carbon Emissions Prediction Platform][Armanino LLP] (https://github.com/Kapil-Jobanputra/carbon-emissions-prediction-platform) — Cloud-hosted ML app for forecasting CO₂ (ARIMA, SARIMAX).
+- [☁️ Cloud-Native Microservices Development][Cloud Computing] (https://github.com/Kapil-Jobanputra/cloud-native-microservices) — Dockerized e-commerce microservices (Flask, Node, MongoDB).
+- [⚽ FIFA World Cup Forecast Model][Python/Machine Learning] (https://github.com/Kapil-Jobanputra/fifa-worldcup-forecast) — Data-driven prediction models using Python.
+- [🧳 Agile Travel Platform Optimization][Software Project Management (https://github.com/Kapil-Jobanputra/agile-travel-platform) — Scrum-led system upgrade; performance improvements.
+- [🥪 Snackpass DBMS Project][Big Data] (https://github.com/Kapil-Jobanputra/snackpass-dbms) — Normalized MySQL database design and business logic.
+
 
 ---
 
