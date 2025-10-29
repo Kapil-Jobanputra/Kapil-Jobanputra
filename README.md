@@ -83,3 +83,17 @@
 ---
 
 ⭐ *Thanks for stopping by! I'm always open to discussing technology, data, and creative software solutions.*
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kapil-Jobanputra&show_icons=true&theme=github_dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-Jobanputra&layout=compact&theme=github_dark&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kapil-Jobanputra&theme=github-dark-blue&hide_border=true" height="165">
+</p>
+
