@@ -49,12 +49,12 @@
 ---
 
 ## 💻 Projects
-- [🌍 Carbon Emissions Prediction Platform][Armanino LLP] (https://github.com/Kapil-Jobanputra/carbon-emissions-prediction-platform) — Cloud-hosted ML app for forecasting CO₂ (ARIMA, SARIMAX).
-- [☁️ Cloud-Native Microservices Development][Cloud Computing] (https://github.com/Kapil-Jobanputra/cloud-native-microservices) — Dockerized e-commerce microservices (Flask, Node, MongoDB).
-- [⚽ FIFA World Cup Forecast Model][Python/Machine Learning] (https://github.com/Kapil-Jobanputra/fifa-worldcup-forecast) — Data-driven prediction models using Python.
-- [🧳 Agile Travel Platform Optimization][Software Project Management (https://github.com/Kapil-Jobanputra/agile-travel-platform) — Scrum-led system upgrade; performance improvements.
-- [🥪 Snackpass DBMS Project][Big Data] (https://github.com/Kapil-Jobanputra/snackpass-dbms) — Normalized MySQL database design and business logic.
 
+- [🌍 Carbon Emissions Prediction Platform](https://github.com/Kapil-Jobanputra/carbon-emissions-prediction-platform) — Cloud-hosted ML app for forecasting CO₂ (ARIMA, SARIMAX).
+- [☁️ Cloud-Native Microservices Development](https://github.com/Kapil-Jobanputra/cloud-native-microservices) — Dockerized e-commerce microservices (Flask, Node, MongoDB).
+- [⚽ FIFA World Cup Forecast Model](https://github.com/Kapil-Jobanputra/fifa-worldcup-forecast) — Data-driven prediction models using Python.
+- [🧳 Agile Travel Platform Optimization](https://github.com/Kapil-Jobanputra/agile-travel-platform) — Scrum-led system upgrade; performance improvements.
+- [🥪 Snackpass DBMS Project](https://github.com/Kapil-Jobanputra/snackpass-dbms) — Normalized MySQL database design and business logic.
 
 ---
 
